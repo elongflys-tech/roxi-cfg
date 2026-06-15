@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"ts\":1781269466,\"endpoints\":[\"https://roxi.cc\",\"https://roxijet.cloud\",\"https://wizzegroup.com\",\"https://roxi123.xyz\",\"https://2348753.xyz\"]}",
-  "sig": "Vi8aaswfs8seeAUMKYuUOPVoWOL1w63FK0Aj7Dt6eIWGyUnvO4DsVqja+3lw+JZYaPpXXJ5fIBuoP72CZC8GAQ=="
+  "payload": "{\"v\":1,\"ts\":1781517190,\"endpoints\":[\"https://roxi.cc\",\"https://roxijet.cloud\",\"https://wizzegroup.com\",\"https://roxi123.xyz\",\"https://srx.rle.cc\",\"https://2348753.xyz\"],\"sub_domains\":[\"83232441.xyz\",\"roxisub.us\"],\"share\":{\"invite_host\":\"roxi123.us\",\"invite_domains\":[\"roxi123.us\",\"roxijet.cloud\"],\"download\":\"dl.roxi.cc\"}}",
+  "sig": "zXym1KAXQX2fFJDopw/6qlCgKuVJ51ii6Oj8WJlFFX6avbN0abMiFwCAfAp+8AfoSP1E2is4J4OPmHiMXsc/Dw=="
 }
