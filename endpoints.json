@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"ts\":1781517190,\"endpoints\":[\"https://roxi.cc\",\"https://roxijet.cloud\",\"https://wizzegroup.com\",\"https://roxi123.xyz\",\"https://srx.rle.cc\",\"https://2348753.xyz\"],\"sub_domains\":[\"83232441.xyz\",\"roxisub.us\"],\"share\":{\"invite_host\":\"roxi123.us\",\"invite_domains\":[\"roxi123.us\",\"roxijet.cloud\"],\"download\":\"dl.roxi.cc\"}}",
-  "sig": "zXym1KAXQX2fFJDopw/6qlCgKuVJ51ii6Oj8WJlFFX6avbN0abMiFwCAfAp+8AfoSP1E2is4J4OPmHiMXsc/Dw=="
+  "payload": "{\"v\":1,\"ts\":1782276032,\"endpoints\":[\"https://roxi.cc\",\"https://roxijet.cloud\",\"https://wizzegroup.com\",\"https://roxi123.xyz\",\"https://srx.rle.cc\",\"https://2348753.xyz\"],\"sub_domains\":[\"roxisub.us\",\"83232441.xyz\",\"roxi123.cyou\",\"wizzegroup.com\"],\"share\":{\"invite_host\":\"www.roxi123.us\",\"invite_domains\":[\"www.roxi123.us\",\"roxi123.cyou\",\"wizzegroup.com\"],\"download\":\"dl.roxi.cc\"}}",
+  "sig": "mxBfitFdvuAv3KSh20RIDc0Y7PtH+lmW+FORKXM1LjpoHJBLvFdLlZPRKDBPmxB7zdWmys4oNgcVIvcc7gdWAg=="
 }
